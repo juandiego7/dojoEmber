@@ -1,0 +1,1 @@
+/home/Estudiantes/dojojava/Downloads/dojoEmber/trello/tmp/broccoli_persistent_filterbabel__babel_ember_test_helpers-output_path-Lrg4gPOe.tmp/monkey-patches.js

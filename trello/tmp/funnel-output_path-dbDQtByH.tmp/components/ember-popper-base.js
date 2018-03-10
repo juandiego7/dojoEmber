@@ -1,0 +1,1 @@
+/home/Estudiantes/dojojava/Downloads/dojoEmber/trello/tmp/funnel-input_base_path-nS8aqA3U.tmp/components/ember-popper-base.js
