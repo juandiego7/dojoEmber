@@ -1,0 +1,70 @@
+body{
+    background: #EC6A10;
+}
+.title {
+    font-family: 'Lobster', cursive;
+    color:#fff;
+    font-size: 38px;
+}
+.titles_list{
+    text-align: center;
+    margin:25px;
+    color:white;
+    font-size: 26px;
+    margin: 20px 0px;
+    font-weight: bold;
+}
+.list h2{
+    height: 1.2em;
+    font-size: 18px;
+    margin:5px  0;
+}
+
+.list .todos{
+    height: 80vh;
+    overflow-y:hidden ;
+    margin: 10px;
+}
+
+.lists-container{
+    width: 100%;
+    overflow-x: scroll;
+}
+
+.infinite-width{
+    white-space: nowrap;
+}
+.lists > div{
+    background-color: #A15521 ;
+    display: inline-block;
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    vertical-align: top;
+    margin-right: 1em;
+    padding:10px;
+    box-shadow: 1px 1px 10px 0.5px #000;
+}
+
+.add{
+    margin: 5px 4px;
+}
+
+.new-list input[type="submit"]{
+    margin-top: 0.8em;
+}
+.new-list{
+    padding: 1em;
+}
+
+.card{
+    padding: 10px;
+    background-color: white;
+    margin-top: 10px;
+    border-bottom: 3px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-hide{
+    display: none;
+}
